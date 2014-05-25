@@ -30,3 +30,6 @@ Use descriptive activity names to label dataset.
 
 ### Step5, #####
 Generate a new data file by aggregate function. write files into current directory.
+
+#### Note ####
+In this repo, data files are put in data directory, result files are in result directoy.
